@@ -25,8 +25,8 @@ dev = [
 ]
 
 [project.urls]
-"Homepage" = ""
-"Bug Tracker" = ""
+"Homepage" = "https://github.com/NovaVoidHowl/LHM_Parser"
+"Bug Tracker" = "https://github.com/NovaVoidHowl/LHM_Parser/issues"
 
 [tool.yapf]
 based_on_style = "pep8"
