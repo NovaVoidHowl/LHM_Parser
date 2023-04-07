@@ -181,41 +181,41 @@ class LHM_Parser:
 
 # DEBUG FUNCTIONS ======================================================================================================
 
-  # def print_cpu_tree(self):
-  #   print(self.cpu_tree)
+# def print_cpu_tree(self):
+#   print(self.cpu_tree)
 
-  # def print_gpu_tree(self):
-  #   print(self.gpu_tree)
+# def print_gpu_tree(self):
+#   print(self.gpu_tree)
 
-  # def print_ram_tree(self):
-  #   print(self.ram_tree)
+# def print_ram_tree(self):
+#   print(self.ram_tree)
 
-  # def print_cpu_voltage_tree(self):
-  #   for component in self.cpu_tree['Children']:
-  #     if component['Text'] == 'Voltages':
-  #       print(component)
+# def print_cpu_voltage_tree(self):
+#   for component in self.cpu_tree['Children']:
+#     if component['Text'] == 'Voltages':
+#       print(component)
 
-  # def print_cpu_power_tree(self):
-  #   for component in self.cpu_tree['Children']:
-  #     if component['Text'] == 'Powers':
-  #       print(component)
+# def print_cpu_power_tree(self):
+#   for component in self.cpu_tree['Children']:
+#     if component['Text'] == 'Powers':
+#       print(component)
 
-  # def print_cpu_clock_tree(self):
-  #   for component in self.cpu_tree['Children']:
-  #     if component['Text'] == 'Clocks':
-  #       print(component)
+# def print_cpu_clock_tree(self):
+#   for component in self.cpu_tree['Children']:
+#     if component['Text'] == 'Clocks':
+#       print(component)
 
-  # def print_cpu_temperature_tree(self):
-  #   for component in self.cpu_tree['Children']:
-  #     if component['Text'] == 'Temperatures':
-  #       print(component)
+# def print_cpu_temperature_tree(self):
+#   for component in self.cpu_tree['Children']:
+#     if component['Text'] == 'Temperatures':
+#       print(component)
 
-  # def print_cpu_load_tree(self):
-  #   for component in self.cpu_tree['Children']:
-  #     if component['Text'] == 'Load':
-  #       print(component)
+# def print_cpu_load_tree(self):
+#   for component in self.cpu_tree['Children']:
+#     if component['Text'] == 'Load':
+#       print(component)
 
-  # def print_cpu_factor_tree(self):
-  #   for component in self.cpu_tree['Children']:
-  #     if component['Text'] == 'Factors':
-  #       print(component)
+# def print_cpu_factor_tree(self):
+#   for component in self.cpu_tree['Children']:
+#     if component['Text'] == 'Factors':
+#       print(component)
