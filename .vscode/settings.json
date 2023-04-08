@@ -1,8 +1,13 @@
 {
   "cSpell.words": [
+    "mdformat",
+    "pylintrc",
+    "yamlfmt",
     "yapf"
   ],
-  "python.linting.pylintEnabled": true,
+  "editor.rulers": [
+    120
+  ],
   "python.linting.enabled": true,
-  "editor.rulers": [ 120 ]
+  "python.linting.pylintEnabled": true
 }
