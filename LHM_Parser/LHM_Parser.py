@@ -318,6 +318,7 @@ class LHM_Parser:
     """
     print(self.__ram_tree)
 
+
 # def print_cpu_voltage_tree(self):
 #   for component in self.__cpu_tree['Children']:
 #     if component['Text'] == 'Voltages':

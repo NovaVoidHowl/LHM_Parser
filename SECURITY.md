@@ -8,6 +8,6 @@
 
 ## Reporting a Vulnerability
 
-Please report all vulnerabilities via DM on Discord NovaVoidHowl#5214 or via Email me@novavoidhowl.com  
+Please report all vulnerabilities via DM on Discord NovaVoidHowl#5214 or via Email me@novavoidhowl.com
 
-Note messages via Discord will likely get seen quicker and this is the preferred reporting path.  
+Note messages via Discord will likely get seen quicker and this is the preferred reporting path.
